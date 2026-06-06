@@ -28,7 +28,7 @@ export interface Project {
   createdAt: string;
   updatedAt: string;
   userId: string;
-  user?: string;
+  user?: User;
   isPublished?: boolean;
   versionId?: string;
   conversation: Message[];
