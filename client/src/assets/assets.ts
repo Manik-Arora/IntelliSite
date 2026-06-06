@@ -3,9 +3,9 @@ import logo from "./logo.svg";
 export const assets = { logo };
 
 export const dummyUser = {
-  name: "GreatStack",
+  name: "Albert",
   id: "xyz",
-  email: "test@greatstack.dev",
+  email: "test@albert.dev",
 };
 
 export const dummyProjects = [
